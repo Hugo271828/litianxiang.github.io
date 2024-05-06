@@ -23,14 +23,14 @@ My research interests include *3D completion and reconstruction* and *metamateri
 
 
 # 🔥 News
-+   \[05/2024\] Our paper on video shadow detection is accepted at [CVPR'2023](https://cvpr2023.thecvf.com/)!
++   \[05/2024\] [示例]Our paper on video shadow detection is accepted at [CVPR'2023](https://cvpr2023.thecvf.com/)!
 +   news1
 +   news2
 +   news3
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='../images/FSDM.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/FSDM.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [News-based Research on Forecast of International Natural gas price trend](https://books.google.com/books?hl=zh-CN&lr=&id=ey4NEAAAQBAJ&oi=fnd&pg=PA194&dq=News-based+Research+on+Forecast+of+International+Natural+gas+price+trend&ots=2maa8AyIH5&sig=_iY4BmQzlqeo-dc7hvejDs3IPGM#v=onepage&q=News-based%20Research%20on%20Forecast%20of%20International%20Natural%20gas%20price%20trend&f=false)
